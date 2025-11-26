@@ -4,7 +4,7 @@ const app = require('./src/app');
 
 
 const port = process.env.PORT ;
-console.log("ENV PORT =", process.env);
+
 
 
 app.listen(port, () => {

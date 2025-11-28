@@ -74,5 +74,11 @@ const hashedPassword = await bcrypt.hash(password, 10);
     });
 soo in error i add passwordhashed inseated password it gives error becuse my user model use passwrd 
 
+create superbase connection 
 
-i 
+
+
+
+
+
+
